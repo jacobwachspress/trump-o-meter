@@ -1,0 +1,1 @@
+Mean overall sentiment (-2 to 2 scale): -0.74
